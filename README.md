@@ -13,3 +13,9 @@ docker-compose build
 ```bash
 docker-compose up
 ```
+
+## Stop
+
+```bash
+docker-compose down
+```
